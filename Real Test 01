@@ -1,0 +1,70 @@
+<head>
+        <style>
+             body {background-image: url(http://img4.wikia.nocookie.net/__cb20140125144202/harrypotter/images/a/a7/DuellingClub.png);}
+             h6 {text-align:center;}
+             h1 {text-align:center;}
+             h1 {color:#993333;}
+             body {border:20px Solid #ffcc00;}
+             h1,tr,th,table,h2,h6,body,p {font-family:monospace;}
+             h2 {text-align:center;}
+             h2 {color:#ff5050;}
+             h1 {font-size:X-Large;}
+             h2 {font-size:Medium;}
+             p  {text-align:center;}
+             p, u  {color:Maroon;}
+             body {color:ffff66;}
+             h3 {text-align:center;}
+             p {font-size:Medium;}
+   table,th, td {border:1px solid black;}
+             table {width:20%;}
+             th {height:50px;}
+             th {background-color:#330000; color:white;}
+             table {border-collapse:collapse;}
+             th,td,body {text-align: center;}
+             tr:hover {background-color:Grey;}
+             table {color:black;}
+             h1 {Text-Shadow: 5px 5px 6px #ffff33;}
+              th,tr,table {filter:blur(0.60px);}
+        </style>
+    </head>
+    <body>
+         <br>
+         <h6><img src=dddd.png width=250/></h6>
+         <i><h1>Hogwarts School of Witchcraft and Wizardry</h1></i>
+         <i><h2>The Dueling Club is ready for applicants!</h2></i>
+         <hr>
+         <u><i><b><p>Dueling Club applications and information</p></b></i></u>
+         <p style=color:#c1c1a4>Our dearest professors Severus Snape and Gilderoy Lockhart have agreed to create and open a club to those willing to put their knowledge from Defense Against the Dark Arts courses into action. Within the club you will learn how to master keen aim in threatening scenarios and barricade yourself under immense pressure. The dueling club will meet next Friday on the transfiguration courtyard at 1:30pm. All applications are to be submitted by Tuesday and be signed by at least 4 core subject professors to ensure validity before being turned in at the Great Hall.</p>       
+          <u><i><b><p>Rules during dueling</p></b></i></u>
+          <p style=color:#c1c1a4>To begin, in a formal duel, one wizard or witch challenges another. If the other person accepts, they then arrange a meeting time to duel with a dueling club captain as supervision. Opponents MUST bow to one another as a sign of respect with no foul intentions of critically harming one another. There is a standard rule in duels that only magical means may be used to fight an opponent, and that there is to be no physical contact between the duellists. </p>
+           <u><i><b><p>Spells never to be used during a duel</p></b></i></u>
+         <table align=center>
+             <tr>
+             <th><i>Forbidden curses</i></th>     
+             <th><b>Effect</b></th>
+             </tr>
+             <tr><td>Avada Kedavra (Killing Curse)</td>
+                 <td><i>Instantaneous death</i></td>
+             </tr>
+             <tr>
+                 <td>Cruciatus (Torture Curse)</td>
+                 <td><i>Excruciating pain</i></td>
+             </tr>
+             <tr>
+                 <td>Imperius</td>
+                 <td><i>Total control over the victim</i></td>
+             </tr>
+             
+         </table>
+         <br>
+         <b>Dueling Club Requirements:</b>
+         <i><li>Must bring a wand</li></i>
+         <i><li>Must be in year 2 or higher</li></i>
+         <i><li>Must have basic knowledge of offensive and defensive magic</li></i>
+         <i><li>Must be passing 7 core subjects with at least an A</li></i>
+         <u><i><b><p>Application forms can be found in the Library!</p></b></i></u>
+                     <img src=eeee.png width=100/>
+                     <br>
+         
+    </body>
+</html>
